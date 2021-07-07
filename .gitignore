@@ -36,7 +36,7 @@
 yarn-debug.log*
 .yarn-integrity
 
-.idea/dataSources/
+.idea/dataSources/**
 
 # User-specific stuff
 .idea/**/workspace.xml
