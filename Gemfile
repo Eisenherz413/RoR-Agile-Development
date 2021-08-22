@@ -54,3 +54,5 @@ gem 'tzinfo-data', platforms: %i[mingw mswin x64_mingw jruby]
 
 # Rubocop gem
 gem 'rubocop', '~> 1.18', '>= 1.18.1'
+
+gem 'rubygems-update', '~> 2.7', '>= 2.7.2'
